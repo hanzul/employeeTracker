@@ -1,5 +1,5 @@
 {
-  "name": "employee-tracker",
+  "name": "employeeTracker",
   "version": "1.0.0",
   "description": "Employee Tracker",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chulopapi/Employee-Tracker.git"
+    "url": "https://github.com/hanzul/employeeTracker/"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chulopapi/Employee-Tracker/issues"
+    "url": "https://github.com/hanzul/employeeTracker/issues"
   },
-  "homepage": "https://github.com/chulopapi/Employee-Tracker#readme",
+  "homepage": "https://github.com/hanzul/employeeTracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.3.3",
